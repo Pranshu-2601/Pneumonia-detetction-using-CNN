@@ -21,5 +21,7 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 - PIL
 - Bootstarp
 
-#CNN Architecture
+# CNN Architecture
+![Screenshot 2022-02-28 092539](https://user-images.githubusercontent.com/78203981/155921733-4f225d1b-08b4-47ec-b779-23ec2fae8b6e.png)
+
 
